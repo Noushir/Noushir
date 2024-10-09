@@ -6,7 +6,9 @@
 
 #  Hola! I'm Noushir🖐️
 
-📖Bachelor of Engineering'24 - Acharya Institute of Technology, Bengaluru.
+📖 Master of Science _ Artificial Intelligence and Machine Learning in Science - Queen Mary University of London, London, United Kingdom.
+
+✅Bachelor of Engineering'24 _ Artificial intelligence and Machine Learning-Acharya Institute of Technology, Bengaluru, India
 
 🤖Specialized in Artificial intelligence and Machine Learning.
 
